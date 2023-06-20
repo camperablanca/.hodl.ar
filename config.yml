@@ -7,8 +7,8 @@ version: 0.3.5 # NO TOCAR
 username: "camperablanca" # < TU_USUARIO@hodl.ar
 
 # NOSTR Settings
-# nostr: # Sin el # adelante
-#   npub: "TU_PUB" # Entre comillas dobles
+nostr: # Sin el # adelante
+   npub: "npub1jrk049c64q3x4j58j2zsm8m3a0hv8mspgmvllz823cf6yvu5p24s4pz66g" # Entre comillas dobles
 
 # Configuración Global
 html:
